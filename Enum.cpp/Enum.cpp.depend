@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1568371561 source:/home/tecnologo/Escritorio/Enum.cpp/main.cpp
+	<iostream>
+	<string.h>
+
